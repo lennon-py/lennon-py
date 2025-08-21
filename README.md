@@ -17,15 +17,6 @@ im a 13 year old coder from the US
 </p>
 
 
----
-
-## contribution activity
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=lennon-py&area=true&hide_border=true&color=03b3ff&background=0b1226)
-
-
----
-
-
 
 ## tech / tools I tinker with
 ```text
