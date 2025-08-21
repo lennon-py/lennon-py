@@ -16,24 +16,16 @@ im a 13 year old coder from the US
   </a>
 </p>
 
-> Tip: change `theme=github_dark` to `theme=radical`, `theme=dracula`, `theme=highcontrast`, etc.
 
 ---
 
 ## contribution activity
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=lennon-py&area=true&hide_border=true&color=03b3ff&background=0b1226)
 
-> If the above graph is slow/unavailable, try `https://ghchart.rshah.org/lennon-py` instead.
 
 ---
 
-## streak & extra metrics
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lennon-py&theme=dark&hide_border=true" height="110" alt="streak stats" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=lennon-py&repo=REPO_NAME&theme=github_dark" height="110" alt="pinned repo" />
-</p>
 
----
 
 ## tech / tools I tinker with
 ```text
